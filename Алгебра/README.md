@@ -8,7 +8,7 @@
 ---
 
 **Второй модуль**
-- [В техе]()
+- [В техе](https://github.com/AlexTheSlacker/sekretiki-/blob/main/Алгебра/TrivOchev.pdf)
 
 ---
 
