@@ -2,16 +2,16 @@
 
 Collection of PDF files, textbooks, and additional materials.
 
-## 📚 PDF Files
+## PDF Files
 All PDF materials are located in the [pdf/](pdf/) folder.
 
-## 📖 Categories
+## Categories
 - Textbooks
 - Lecture slides
 - Research papers
 - Cheatsheets
 
-## 🔗 Useful Links
+## Useful Links
 - Add relevant links here
 - Online resources
 - Video lectures

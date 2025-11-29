@@ -2,13 +2,13 @@
 
 Tips and tricks for effective studying and productivity.
 
-## 💡 Topics
+## Topics
 - Time management
 - Note-taking methods
 - Exam preparation
 - Productivity tools
 
-## 🛠️ Tips
+## Tips
 - Pomodoro technique
 - Active recall methods
 - Spaced repetition

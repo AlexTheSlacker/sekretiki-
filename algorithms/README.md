@@ -2,14 +2,22 @@
 
 Computer science algorithms and data structures.
 
-## 📖 Topics
-- Sorting algorithms
-- Search algorithms
-- Data structures
-- Complexity analysis
+## Modules
+- [Module 1](module-1/) - Sorting Algorithms
+- [Module 2](module-2/) - Search Algorithms
+- [Module 3](module-3/) - Data Structures
+- [Module 4](module-4/) - Complexity Analysis
 
-## 📝 Files
-- `sorting-algorithms.md` - Sorting methods comparison
-- `data-structures.md` - Common data structures
-- `complexity.md` - Big O notation
-- `implementations/` - Algorithm implementations
+## PDF Notes
+- [Lecture Notes PDF]()
+- [Algorithms Cheatsheet]()
+
+## Tests & Exams
+- [Test 1]()
+- [Test 2]()
+- [Final Exam Tickets]()
+
+## Useful Resources
+- [Visualization Tools]()
+- [Practice Platforms]()
+- [Reference Books]()

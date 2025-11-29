@@ -2,14 +2,22 @@
 
 C++ programming concepts and code examples.
 
-## 📖 Topics
-- Basic syntax
-- OOP in C++
-- STL containers
-- Memory management
+## Modules
+- [Module 1](module-1/) - Basic Syntax
+- [Module 2](module-2/) - OOP in C++
+- [Module 3](module-3/) - STL Containers
+- [Module 4](module-4/) - Memory Management
 
-## 📝 Files
-- `syntax-basics.md` - C++ syntax reference
-- `oop-concepts.md` - Object-oriented programming
-- `stl-guide.md` - Standard Template Library
-- `code-examples/` - Example programs
+## PDF Notes
+- [Lecture Notes PDF]()
+- [Code Examples PDF]()
+
+## Tests & Exams
+- [Test 1]()
+- [Test 2]()
+- [Final Exam Tickets]()
+
+## Useful Resources
+- [Online Compiler]()
+- [Documentation]()
+- [Practice Problems]()

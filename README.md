@@ -2,20 +2,19 @@
 
 A collection of university course notes and resources organized by subject.
 
-## 📚 Subjects
+## Subjects
 - [Algebra](algebra/)
-- [Calculus](calculus/)
-- [Discrete Mathematics](discrete-mathematics/)
+- [Math Analysis](math/)
+- [Discrete Math](discrete-math/)
 - [C++ Programming](cpp/)
 - [Algorithms](algorithms/)
 
-## 🛠️ Resources
+## Resources
 - [Study Materials](resources/)
 - [Lifehacks & Tips](lifehacks/)
 
-## 📁 Structure
+## Structure
 Each subject folder contains:
-- Lecture notes
-- Practice problems
-- Cheatsheets
-- Code examples
+- Lecture notes by modules
+- Tests and exams
+- Useful resources
