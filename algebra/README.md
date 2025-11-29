@@ -1,18 +1,12 @@
 # Algebra Notes
 
-Lecture notes and materials for Algebra course.
+TrivOchevUpr
 
 ## Modules
-- [Module 1](module-1/) - Linear Equations
-- [Module 2](module-2/) - Matrices and Determinants
-- [Module 3](module-3/) - Vector Spaces
-- [Module 4](module-4/) - Eigenvalues and Eigenvectors
-
-## PDF Notes
-- [Module 1 Notes](../resources/pdf/algebra/module-1.pdf)
-- [Module 2 Notes](../resources/pdf/algebra/module-2.pdf)
-- [Module 3 Notes](../resources/pdf/algebra/module-3.pdf)
-- [Module 4 Notes](../resources/pdf/algebra/module-4.pdf)
+- [1st term](../resources/pdf/algebra/1st term.pdf)
+- [2nd term](../resources/pdf/algebra/2nd term,pdf)
+- [3rd term](../resources/pdf/algebra/3rd term.pdf)
+- [4th term](../resources/pdf/algebra/4th term.pdf)
 
 ## Tests & Exams
 - [Test 1]()
