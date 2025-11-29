@@ -1,7 +1,7 @@
 # Конспекты 1 курс
 
 **Первый модуль**
-- [От руки ]([https://github.com/AlexTheSlacker/sekretiki-/blob/main/Алгебра/1st%20term](https://github.com/AlexTheSlacker/sekretiki-/blob/main/Алгебра/1st%20term.pdf))
+- [От руки ][https://github.com/AlexTheSlacker/sekretiki-/blob/main/Алгебра/1st%20term](https://github.com/AlexTheSlacker/sekretiki-/blob/main/Алгебра/1st%20term.pdf)
 - [В техе  ]()
 - [Еще вариант]()
 
